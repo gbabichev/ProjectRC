@@ -1,0 +1,26 @@
+TODO LIST
+
+General
+---------
+[X] Cleanup scripts, move into directory
+[ ] FIX HANDBRAKE!!
+[ ] Find alternative to crappy SA Unity FPS Controller
+[ ] Add Icon for OSX App
+[ ] Fix main BMW car model. Drivers side top window is messed up.
+[ ] Network (multiplayer) capability
+
+For version 0.5
+---------
+[X] Optimize GetComponent() of scripts for improved FPS
+[X] Confirm 'car enter/exit' (entering wrong car) bug is fixed.
+[X] Fix sun flare showing up in wrong location.
+[X] Remove windows cursor from displaying inside the game.
+
+For version 0.6
+---------
+[ ] Repair BMW wheel model & remove FT model
+[X] Fix wheels not spinning when not in car
+[ ] Rework the UI on Unity 4.6 Beta
+[ ] Fix textures on Jeep, and Buggy and add to the game
+[ ] Add flying ship - hard. Needs reworking of Input Axises & Controls
+[ ] Add sounds for the cars
